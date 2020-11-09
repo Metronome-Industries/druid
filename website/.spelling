@@ -1038,6 +1038,7 @@ com.example
 common.runtime.properties
 druid-aws-rds-extensions
 druid-cassandra-storage
+druid-compressed-bigdecimal
 druid-distinctcount
 druid-ec2-extensions
 druid-kafka-extraction-namespace
@@ -2105,3 +2106,12 @@ TIMESTAMPDIFF
 TRUNC 
 VAR_POP 
 VAR_SAMP
+- ../docs/development/extensions-contrib/compressed-big-decimal.md
+compressedBigDecimal
+limitSpec
+metricsSpec
+postAggregations
+SaleAmount
+IngestionSpec
+druid-compressed-bigdecimal
+doubleSum
