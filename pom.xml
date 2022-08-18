@@ -199,6 +199,7 @@
         <module>extensions-contrib/aliyun-oss-extensions</module>
         <module>extensions-contrib/prometheus-emitter</module>
         <module>extensions-contrib/opentelemetry-emitter</module>
+        <module>extensions-contrib/compressed-bigdecimal</module>
         <!-- distribution packaging -->
         <module>distribution</module>
     </modules>
